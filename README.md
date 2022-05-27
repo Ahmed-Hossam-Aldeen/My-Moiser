@@ -1,6 +1,8 @@
 # My-Moiser
 Split any song to 4 stems: Vocals, Melody, Drums, Bass using Spleeter.
 
+Exe---------> coming soon
+
 # How to use?
 use My_moiser.ipynb to split the song you want then run the GUI to play the splitted song smoothly.
 
